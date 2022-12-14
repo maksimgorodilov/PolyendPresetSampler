@@ -1,0 +1,4 @@
+libs//core_teensy/new.cpp:3:8:void* operator new(size_t)	8	static
+libs//core_teensy/new.cpp:8:8:void* operator new [](size_t)	8	static
+libs//core_teensy/new.cpp:13:6:void operator delete(void*)	8	static
+libs//core_teensy/new.cpp:18:6:void operator delete [](void*)	8	static

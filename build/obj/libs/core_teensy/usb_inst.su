@@ -1,0 +1,9 @@
+libs//core_teensy/usb_serial.h:80:22:virtual void usb_serial_class::clear()	8	static
+libs//core_teensy/usb_serial.h:79:22:virtual void usb_serial_class::flush()	8	static
+libs//core_teensy/usb_serial.h:78:21:virtual int usb_serial_class::peek()	8	static
+libs//core_teensy/usb_serial.h:77:21:virtual int usb_serial_class::read()	8	static
+libs//core_teensy/usb_serial.h:76:21:virtual int usb_serial_class::available()	8	static
+libs//core_teensy/usb_serial.h:82:24:virtual size_t usb_serial_class::write(const uint8_t*, size_t)	8	static
+libs//core_teensy/usb_serial.h:81:24:virtual size_t usb_serial_class::write(uint8_t)	8	static
+libs//core_teensy/usb_inst.cpp:89:6:void serialEvent()	0	static
+libs//core_teensy/usb_inst.cpp:89:21:cpp)	0	static

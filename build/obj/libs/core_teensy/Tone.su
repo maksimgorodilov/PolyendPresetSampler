@@ -1,0 +1,5 @@
+libs//core_teensy/IntervalTimer.h:48:2:IntervalTimer::~IntervalTimer()	8	static
+libs//core_teensy/Tone.cpp:118:6:void tone_interrupt()	8	static
+libs//core_teensy/Tone.cpp:63:6:void tone(uint8_t, uint16_t, uint32_t)	16	static
+libs//core_teensy/Tone.cpp:141:6:void noTone(uint8_t)	8	static
+libs//core_teensy/Tone.cpp:151:1:cpp)	8	static

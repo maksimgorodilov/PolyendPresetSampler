@@ -1,0 +1,78 @@
+libs//core_teensy/WString.cpp:113:1:String::~String()	8	static
+libs//core_teensy/WString.cpp:140:15:unsigned char String::changeBuffer(unsigned int)	16	static
+libs//core_teensy/WString.cpp:130:15:unsigned char String::reserve(unsigned int)	8	static
+libs//core_teensy/WString.cpp:155:10:String& String::copy(const char*, unsigned int)	16	static
+libs//core_teensy/WString.cpp:29:1:String::String(const char*)	16	static
+libs//core_teensy/WString.cpp:175:6:void String::move(String&)	16	static
+libs//core_teensy/WString.cpp:48:1:String::String(String&&)	8	static
+libs//core_teensy/WString.cpp:53:1:String::String(StringSumHelper&&)	8	static
+libs//core_teensy/WString.cpp:195:10:String& String::operator=(const String&)	8	static
+libs//core_teensy/WString.cpp:41:1:String::String(const String&)	8	static
+libs//core_teensy/WString.cpp:202:10:String& String::operator=(String&&)	8	static
+libs//core_teensy/WString.cpp:208:10:String& String::operator=(StringSumHelper&&)	8	static
+libs//core_teensy/WString.cpp:215:10:String& String::operator=(const char*)	16	static
+libs//core_teensy/WString.cpp:66:1:String::String(unsigned char)	16	static
+libs//core_teensy/WString.cpp:74:1:String::String(int, unsigned char)	32	static
+libs//core_teensy/WString.cpp:82:1:String::String(unsigned int, unsigned char)	32	static
+libs//core_teensy/WString.cpp:90:1:String::String(long int, unsigned char)	48	static
+libs//core_teensy/WString.cpp:98:1:String::String(long unsigned int, unsigned char)	48	static
+libs//core_teensy/WString.cpp:106:1:String::String(float, unsigned char)	48	static
+libs//core_teensy/WString.cpp:225:10:String& String::operator=(const __FlashStringHelper*)	16	static
+libs//core_teensy/WString.cpp:35:1:String::String(const __FlashStringHelper*)	8	static
+libs//core_teensy/WString.cpp:231:10:String& String::operator=(char)	16	static
+libs//core_teensy/WString.cpp:60:1:String::String(char)	8	static
+libs//core_teensy/WString.cpp:248:10:String& String::append(const char*, unsigned int)	32	static
+libs//core_teensy/WString.cpp:243:10:String& String::append(const String&)	8	static
+libs//core_teensy/WString.cpp:268:10:String& String::append(const char*)	16	static
+libs//core_teensy/WString.cpp:274:10:String& String::append(char)	16	static
+libs//core_teensy/WString.cpp:283:10:String& String::append(int)	24	static
+libs//core_teensy/WString.cpp:291:10:String& String::append(unsigned int)	24	static
+libs//core_teensy/WString.cpp:299:10:String& String::append(long int)	24	static
+libs//core_teensy/WString.cpp:307:10:String& String::append(long unsigned int)	24	static
+libs//core_teensy/WString.cpp:315:10:String& String::append(float)	40	static
+libs//core_teensy/WString.cpp:329:19:StringSumHelper& operator+(const StringSumHelper&, const String&)	8	static
+libs//core_teensy/WString.cpp:336:19:StringSumHelper& operator+(const StringSumHelper&, const char*)	16	static
+libs//core_teensy/WString.cpp:343:19:StringSumHelper& operator+(const StringSumHelper&, const __FlashStringHelper*)	16	static
+libs//core_teensy/WString.cpp:350:19:StringSumHelper& operator+(const StringSumHelper&, char)	8	static
+libs//core_teensy/WString.cpp:357:19:StringSumHelper& operator+(const StringSumHelper&, unsigned char)	8	static
+libs//core_teensy/WString.cpp:364:19:StringSumHelper& operator+(const StringSumHelper&, int)	8	static
+libs//core_teensy/WString.cpp:371:19:StringSumHelper& operator+(const StringSumHelper&, unsigned int)	8	static
+libs//core_teensy/WString.cpp:378:19:StringSumHelper& operator+(const StringSumHelper&, long int)	8	static
+libs//core_teensy/WString.cpp:385:19:StringSumHelper& operator+(const StringSumHelper&, long unsigned int)	8	static
+libs//core_teensy/WString.cpp:392:19:StringSumHelper& operator+(const StringSumHelper&, float)	8	static
+libs//core_teensy/WString.cpp:399:19:StringSumHelper& operator+(const StringSumHelper&, double)	8	static
+libs//core_teensy/WString.cpp:410:5:int String::compareTo(const String&) const	8	static
+libs//core_teensy/WString.cpp:420:15:unsigned char String::equals(const String&) const	8	static
+libs//core_teensy/WString.cpp:425:15:unsigned char String::equals(const char*) const	8	static
+libs//core_teensy/WString.cpp:432:15:unsigned char String::operator<(const String&) const	8	static
+libs//core_teensy/WString.cpp:437:15:unsigned char String::operator>(const String&) const	8	static
+libs//core_teensy/WString.cpp:442:15:unsigned char String::operator<=(const String&) const	8	static
+libs//core_teensy/WString.cpp:447:15:unsigned char String::operator>=(const String&) const	8	static
+libs//core_teensy/WString.cpp:452:15:unsigned char String::equalsIgnoreCase(const String&) const	16	static
+libs//core_teensy/WString.cpp:471:15:unsigned char String::startsWith(const String&, unsigned int) const	8	static
+libs//core_teensy/WString.cpp:465:15:unsigned char String::startsWith(const String&) const	8	static
+libs//core_teensy/WString.cpp:477:15:unsigned char String::endsWith(const String&) const	8	static
+libs//core_teensy/WString.cpp:492:6:void String::setCharAt(unsigned int, char)	0	static
+libs//core_teensy/WString.cpp:497:8:char& String::operator[](unsigned int)	0	static
+libs//core_teensy/WString.cpp:507:6:char String::operator[](unsigned int) const	0	static
+libs//core_teensy/WString.cpp:487:6:char String::charAt(unsigned int) const	8	static
+libs//core_teensy/WString.cpp:513:6:void String::getBytes(unsigned char*, unsigned int, unsigned int) const	16	static
+libs//core_teensy/WString.cpp:535:5:int String::indexOf(char, unsigned int) const	8	static
+libs//core_teensy/WString.cpp:530:5:int String::indexOf(char) const	8	static
+libs//core_teensy/WString.cpp:548:5:int String::indexOf(const String&, unsigned int) const	8	static
+libs//core_teensy/WString.cpp:543:5:int String::indexOf(const String&) const	8	static
+libs//core_teensy/WString.cpp:561:5:int String::lastIndexOf(char, unsigned int) const	16	static
+libs//core_teensy/WString.cpp:556:5:int String::lastIndexOf(char) const	8	static
+libs//core_teensy/WString.cpp:577:5:int String::lastIndexOf(const String&, unsigned int) const	24	static
+libs//core_teensy/WString.cpp:572:5:int String::lastIndexOf(const String&) const	8	static
+libs//core_teensy/WString.cpp:595:8:String String::substring(unsigned int, unsigned int) const	24	static
+libs//core_teensy/WString.cpp:590:8:String String::substring(unsigned int) const	8	static
+libs//core_teensy/WString.cpp:616:10:String& String::replace(char, char)	4	static
+libs//core_teensy/WString.cpp:625:10:String& String::replace(const String&, const String&)	40	static
+libs//core_teensy/WString.cpp:669:10:String& String::remove(unsigned int)	0	static
+libs//core_teensy/WString.cpp:678:10:String& String::remove(unsigned int, unsigned int)	16	static
+libs//core_teensy/WString.cpp:689:10:String& String::toLowerCase()	16	static
+libs//core_teensy/WString.cpp:698:10:String& String::toUpperCase()	16	static
+libs//core_teensy/WString.cpp:707:10:String& String::trim()	16	static
+libs//core_teensy/WString.cpp:724:6:long int String::toInt() const	8	static
+libs//core_teensy/WString.cpp:730:7:float String::toFloat() const	8	static

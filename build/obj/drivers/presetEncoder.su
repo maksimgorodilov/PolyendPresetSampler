@@ -1,0 +1,4 @@
+drivers//presetEncoder.cpp:54:6:void updateEncoders()	32	static
+./libs/core_teensy/IntervalTimer.h:48:2:IntervalTimer::~IntervalTimer()	8	static
+drivers//presetEncoder.cpp:47:6:void initEncoders(void (*)(uint8_t, uint8_t))	8	static
+drivers//presetEncoder.cpp:80:1:cpp)	8	static

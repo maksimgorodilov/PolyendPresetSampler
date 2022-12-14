@@ -1,0 +1,3 @@
+libs//core_teensy/nonstd.c:37:8:ultoa	12	static
+libs//core_teensy/nonstd.c:59:8:ltoa	8	static
+libs//core_teensy/nonstd.c:76:8:dtostrf	40	static

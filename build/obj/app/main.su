@@ -1,0 +1,13 @@
+app//main.cpp:43:6:void onEncoderPress(uint8_t)	8	static
+app//main.cpp:47:6:void onEncoderRelease(uint8_t)	8	static
+app//main.cpp:52:6:void onEncoderRotate(uint8_t, uint8_t)	8	static
+app//main.cpp:57:6:void onCVin(uint16_t)	8	static
+app//main.cpp:62:6:void onButtonPress(uint8_t)	8	static
+app//main.cpp:67:6:void onButtonRelease(uint8_t)	8	static
+app//main.cpp:72:6:void onPadPress(uint8_t)	8	static
+app//main.cpp:76:6:void onPadRelease(uint8_t)	8	static
+app//main.cpp:81:6:void presetHardwareInit()	16	static
+app//main.cpp:109:6:void presetHardwareUpdate()	8	static
+app//main.cpp:121:6:void setup()	8	static
+app//main.cpp:127:6:void loop()	8	static
+app//main.cpp:131:1:cpp)	8	static

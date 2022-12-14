@@ -1,0 +1,15 @@
+libs//core_teensy/math_helper.c:51:7:arm_snr_f32	48	static
+libs//core_teensy/math_helper.c:103:6:arm_provide_guard_bits_q15	0	static
+libs//core_teensy/math_helper.c:121:6:arm_float_to_q12_20	40	static
+libs//core_teensy/math_helper.c:145:10:arm_compare_fixed_q15	4	static
+libs//core_teensy/math_helper.c:173:10:arm_compare_fixed_q31	4	static
+libs//core_teensy/math_helper.c:203:6:arm_provide_guard_bits_q31	0	static
+libs//core_teensy/math_helper.c:225:6:arm_provide_guard_bits_q7	0	static
+libs//core_teensy/math_helper.c:247:10:arm_calc_guard_bits	0	static
+libs//core_teensy/math_helper.c:288:10:arm_calc_2pow	0	static
+libs//core_teensy/math_helper.c:271:6:arm_apply_guard_bits	16	static
+libs//core_teensy/math_helper.c:310:6:arm_float_to_q14	40	static
+libs//core_teensy/math_helper.c:339:6:arm_float_to_q30	40	static
+libs//core_teensy/math_helper.c:365:6:arm_float_to_q29	40	static
+libs//core_teensy/math_helper.c:392:6:arm_float_to_q28	40	static
+libs//core_teensy/math_helper.c:419:6:arm_clip_f32	32	static

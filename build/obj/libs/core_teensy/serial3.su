@@ -1,0 +1,17 @@
+libs//core_teensy/serial3.c:109:6:serial3_begin	0	static
+libs//core_teensy/serial3.c:146:6:serial3_format	0	static
+libs//core_teensy/serial3.c:178:6:serial3_end	8	static
+libs//core_teensy/serial3.c:191:6:serial3_set_transmit_pin	8	static
+libs//core_teensy/serial3.c:202:6:serial3_set_tx	0	static
+libs//core_teensy/serial3.c:230:6:serial3_set_rx	0	static
+libs//core_teensy/serial3.c:248:5:serial3_set_rts	8	static
+libs//core_teensy/serial3.c:274:5:serial3_set_cts	0	static
+libs//core_teensy/serial3.c:291:6:serial3_putchar	24	static
+libs//core_teensy/serial3.c:320:6:serial3_write	16	static
+libs//core_teensy/serial3.c:326:6:serial3_flush	8	static
+libs//core_teensy/serial3.c:331:5:serial3_write_buffer_free	0	static
+libs//core_teensy/serial3.c:341:5:serial3_available	0	static
+libs//core_teensy/serial3.c:351:5:serial3_getchar	0	static
+libs//core_teensy/serial3.c:371:5:serial3_peek	0	static
+libs//core_teensy/serial3.c:382:6:serial3_clear	0	static
+libs//core_teensy/serial3.c:396:6:uart2_status_isr	0	static

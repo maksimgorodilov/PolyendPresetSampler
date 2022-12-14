@@ -1,0 +1,18 @@
+app//presetApp.cpp:33:6:void PresetApp::init()	0	static
+app//presetApp.cpp:38:6:void PresetApp::update()	0	static
+app//presetApp.cpp:43:6:void PresetApp::onEncoderPress(int)	0	static
+app//presetApp.cpp:48:6:void PresetApp::onEncoderRelease(int)	0	static
+app//presetApp.cpp:53:6:void PresetApp::onEncoderRotate(int, int)	0	static
+app//presetApp.cpp:58:6:void PresetApp::onCVInputChange(int)	0	static
+app//presetApp.cpp:63:6:void PresetApp::onButtonPress(PresetApp::Buttons)	0	static
+app//presetApp.cpp:68:6:void PresetApp::onButtonRelease(PresetApp::Buttons)	0	static
+app//presetApp.cpp:73:6:void PresetApp::onPadPress(int)	0	static
+app//presetApp.cpp:78:6:void PresetApp::onPadRelease(int)	0	static
+app//presetApp.cpp:83:6:void PresetApp::setEncoderLED(int, PresetApp::EncoderLedColors, int)	16	static
+app//presetApp.cpp:93:6:void PresetApp::setPadLED(int, int)	8	static
+app//presetApp.cpp:99:6:void PresetApp::showValueOnPads(int)	16	static
+app//presetApp.cpp:107:5:int PresetApp::getCVInput()	8	static
+app//presetApp.cpp:112:6:void PresetApp::setCVOutVolt(int, int)	8	static
+app//presetApp.cpp:117:6:void PresetApp::setCVOutNote(int, int, int)	8	static
+app//presetApp.cpp:122:6:void PresetApp::readFromFlash(void*, size_t, uint16_t)	8	static
+app//presetApp.cpp:127:6:void PresetApp::writeToFlash(void*, size_t, uint16_t)	8	static

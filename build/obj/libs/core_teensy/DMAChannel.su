@@ -1,0 +1,6 @@
+libs//core_teensy/DMAChannel.cpp:82:17:uint32_t priority(const DMAChannel&)	0	static
+libs//core_teensy/DMAChannel.cpp:21:6:void DMAChannel::begin(bool)	4	static
+libs//core_teensy/DMAChannel.cpp:71:6:void DMAChannel::release()	0	static
+libs//core_teensy/DMAChannel.cpp:182:6:void DMAPriorityOrder(DMAChannel&, DMAChannel&)	16	static
+libs//core_teensy/DMAChannel.cpp:187:6:void DMAPriorityOrder(DMAChannel&, DMAChannel&, DMAChannel&)	24	static
+libs//core_teensy/DMAChannel.cpp:194:6:void DMAPriorityOrder(DMAChannel&, DMAChannel&, DMAChannel&, DMAChannel&)	24	static

@@ -1,0 +1,24 @@
+libs//core_teensy/HardwareSerial.h:259:17:virtual size_t HardwareSerial::write(long unsigned int)	8	static
+libs//core_teensy/HardwareSerial.h:260:17:virtual size_t HardwareSerial::write(long int)	8	static
+libs//core_teensy/HardwareSerial.h:261:17:virtual size_t HardwareSerial::write(unsigned int)	8	static
+libs//core_teensy/HardwareSerial.h:262:17:virtual size_t HardwareSerial::write(int)	8	static
+libs//core_teensy/HardwareSerial.h:268:17:virtual size_t HardwareSerial::write9bit(uint32_t)	8	static
+libs//core_teensy/HardwareSerial.h:258:17:virtual size_t HardwareSerial::write(uint8_t)	8	static
+libs//core_teensy/HardwareSerial.h:265:24:virtual size_t HardwareSerial::write(const char*)	16	static
+libs//core_teensy/HardwareSerial.h:263:17:virtual size_t HardwareSerial::write(const uint8_t*, size_t)	8	static
+libs//core_teensy/HardwareSerial.h:257:14:virtual int HardwareSerial::availableForWrite()	8	static
+libs//core_teensy/HardwareSerial.h:256:15:virtual void HardwareSerial::clear()	8	static
+libs//core_teensy/HardwareSerial.h:251:15:virtual bool HardwareSerial::attachCts(uint8_t)	8	static
+libs//core_teensy/HardwareSerial.h:250:15:virtual bool HardwareSerial::attachRts(uint8_t)	8	static
+libs//core_teensy/HardwareSerial.h:249:15:virtual void HardwareSerial::setTX(uint8_t, bool)	8	static
+libs//core_teensy/HardwareSerial.h:248:15:virtual void HardwareSerial::setRX(uint8_t)	8	static
+libs//core_teensy/HardwareSerial.h:247:15:virtual void HardwareSerial::transmitterEnable(uint8_t)	8	static
+libs//core_teensy/HardwareSerial.h:246:15:virtual void HardwareSerial::end()	8	static
+libs//core_teensy/HardwareSerial.h:242:15:virtual void HardwareSerial::begin(uint32_t)	8	static
+libs//core_teensy/HardwareSerial.h:243:15:virtual void HardwareSerial::begin(uint32_t, uint32_t)	8	static
+libs//core_teensy/HardwareSerial.h:255:15:virtual void HardwareSerial::flush()	8	static
+libs//core_teensy/HardwareSerial.h:253:14:virtual int HardwareSerial::peek()	8	static
+libs//core_teensy/HardwareSerial.h:254:14:virtual int HardwareSerial::read()	8	static
+libs//core_teensy/HardwareSerial.h:252:14:virtual int HardwareSerial::available()	8	static
+libs//core_teensy/HardwareSerial1.cpp:6:6:void serialEvent1()	0	static
+libs//core_teensy/HardwareSerial1.cpp:6:22:cpp)	0	static

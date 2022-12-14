@@ -1,0 +1,8 @@
+Polyend Tool 1.2.1 instructions of use.
+
+Polyend Tool is an application for convenient firmware updates. Required to upgrade the following instruments: Medusa, Poly 2, Preset, Seq. Compatible with MacOS 10.14 (or higher) and Win 10 (or higher).
+
+- In order to flash your Polyend instrument download the right firmware update hex file too.
+- Use no USB hubs or adapters, only straight connection between the instrument and the computer.
+- Disabling the Windows Defender/custom AV apps for the moment of flashing may be needed.
+- In case of any questions use help.polyend.com/submit_ticket to contact us.

@@ -1,0 +1,3 @@
+drivers//presetMultiplex.cpp:28:6:void initMultiplex()	8	static
+drivers//presetMultiplex.cpp:43:6:void setMultiplexSwitch(uint8_t)	8	static
+drivers//presetMultiplex.cpp:60:6:void setMultiplexEncoders(uint8_t)	8	static
