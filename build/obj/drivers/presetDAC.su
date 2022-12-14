@@ -1,8 +1,0 @@
-drivers//presetDAC.cpp:57:1:PresetDAC::PresetDAC()	0	static
-drivers//presetDAC.cpp:61:1:PresetDAC::~PresetDAC()	0	static
-drivers//presetDAC.cpp:66:6:void PresetDAC::init()	8	static
-drivers//presetDAC.cpp:72:10:uint16_t PresetDAC::getCVvalue()	8	static
-drivers//presetDAC.cpp:88:6:bool PresetDAC::update()	8	static
-drivers//presetDAC.cpp:106:6:void PresetDAC::setCVinHandler(void (*)(uint16_t))	0	static
-drivers//presetDAC.cpp:111:6:void PresetDAC::setCVOutVolt(int, int)	8	static
-drivers//presetDAC.cpp:116:6:void PresetDAC::setCVOutNote(int, int, int)	24	static

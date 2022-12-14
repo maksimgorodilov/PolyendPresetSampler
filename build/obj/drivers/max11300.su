@@ -1,8 +1,0 @@
-drivers//max11300.cpp:52:5:int max_readRegister(uint8_t)	8	static
-drivers//max11300.cpp:66:6:void max_writeRegister(uint8_t, uint16_t)	16	static
-drivers//max11300.cpp:82:6:void max_burstWriteRegister(uint8_t, uint16_t*, uint8_t)	16	static
-drivers//max11300.cpp:98:6:void max_burstReadRegister(uint8_t, uint16_t*, uint8_t)	16	static
-drivers//max11300.cpp:119:6:void max_init()	16	static
-drivers//max11300.cpp:172:10:uint16_t max_readADC(uint8_t)	8	static
-drivers//max11300.cpp:178:6:bool max_isADCReady(uint8_t)	16	static
-drivers//max11300.cpp:193:6:void max_writeDAC(uint16_t, uint8_t)	16	static

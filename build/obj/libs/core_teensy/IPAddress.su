@@ -1,3 +1,0 @@
-libs//core_teensy/IPAddress.cpp:4:8:virtual size_t IPAddress::printTo(Print&) const	32	static
-libs//core_teensy/IPAddress.cpp:14:6:bool IPAddress::fromString(const char*)	8	static
-libs//core_teensy/IPAddress.cpp:45:1:cpp)	0	static

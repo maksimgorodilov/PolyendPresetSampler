@@ -1,7 +1,0 @@
-libs//core_teensy/analog.c:224:13:wait_for_cal	12	static
-libs//core_teensy/analog.c:133:6:analog_init	0	static
-libs//core_teensy/analog.c:283:6:analogReference	8	static
-libs//core_teensy/analog.c:313:6:analogReadRes	8	static
-libs//core_teensy/analog.c:340:6:analogReadAveraging	8	static
-libs//core_teensy/analog.c:422:5:analogRead	24	static
-libs//core_teensy/analog.c:506:6:analogWriteDAC0	0	static

@@ -1,9 +1,0 @@
-drivers//presetSwitches.cpp:31:6:void presetEncoderSwitches::init()	40	static
-drivers//presetSwitches.cpp:43:6:void presetEncoderSwitches::update()	56	static
-drivers//presetSwitches.cpp:87:6:void presetEncoderSwitches::setPressFunction(void (*)(uint8_t))	0	static
-drivers//presetSwitches.cpp:92:6:void presetEncoderSwitches::setReleaseFunction(void (*)(uint8_t))	0	static
-drivers//presetSwitches.cpp:97:6:void presetTactSwitches::init()	16	static
-drivers//presetSwitches.cpp:106:6:void presetTactSwitches::update()	56	static
-drivers//presetSwitches.cpp:147:6:void presetTactSwitches::setPressFunction(void (*)(uint8_t))	0	static
-drivers//presetSwitches.cpp:152:6:void presetTactSwitches::setReleaseFunction(void (*)(uint8_t))	0	static
-drivers//presetSwitches.cpp:155:1:cpp)	8	static

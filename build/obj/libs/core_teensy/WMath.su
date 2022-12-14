@@ -1,8 +1,0 @@
-libs//core_teensy/WMath.cpp:5:6:void randomSeed(uint32_t)	0	static
-libs//core_teensy/WMath.cpp:10:6:void srandom(uint32_t)	0	static
-libs//core_teensy/WMath.cpp:15:9:int32_t random()	0	static
-libs//core_teensy/WMath.cpp:30:10:uint32_t random(uint32_t)	8	static
-libs//core_teensy/WMath.cpp:36:9:int32_t random(int32_t, int32_t)	8	static
-libs//core_teensy/WMath.cpp:43:6:long int map(long int, long int, long int, long int, long int)	0	static
-libs//core_teensy/WMath.cpp:48:14:unsigned int makeWord(unsigned int)	0	static
-libs//core_teensy/WMath.cpp:49:14:unsigned int makeWord(unsigned char, unsigned char)	0	static

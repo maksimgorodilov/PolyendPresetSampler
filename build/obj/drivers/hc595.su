@@ -1,5 +1,0 @@
-drivers//hc595.cpp:45:6:void ShiftRegisterHC595::shift(uint8_t)	16	static
-drivers//hc595.cpp:56:6:void ShiftRegisterHC595::clearRegister()	24	static
-drivers//hc595.cpp:28:6:void ShiftRegisterHC595::init(uint8_t, uint8_t, uint8_t)	8	static
-drivers//hc595.cpp:69:6:void ShiftRegisterHC595::update()	16	static
-drivers//hc595.cpp:79:6:void ShiftRegisterHC595::setMeasureFunc(void (*)(uint8_t))	0	static

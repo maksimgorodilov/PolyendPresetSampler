@@ -1,2 +1,0 @@
-libs//core_teensy/usb_mem.c:48:16:usb_malloc	0	static
-libs//core_teensy/usb_mem.c:79:6:usb_free	8	static

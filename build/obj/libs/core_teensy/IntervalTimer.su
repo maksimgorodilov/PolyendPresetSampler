@@ -1,7 +1,0 @@
-libs//core_teensy/IntervalTimer.cpp:136:13:void dummy_funct()	0	static
-libs//core_teensy/IntervalTimer.cpp:46:6:bool IntervalTimer::beginCycles(void (*)(), uint32_t)	8	static
-libs//core_teensy/IntervalTimer.cpp:83:6:void IntervalTimer::end()	4	static
-libs//core_teensy/IntervalTimer.cpp:102:6:void pit0_isr()	8	static
-libs//core_teensy/IntervalTimer.cpp:108:6:void pit1_isr()	8	static
-libs//core_teensy/IntervalTimer.cpp:113:6:void pit2_isr()	8	static
-libs//core_teensy/IntervalTimer.cpp:118:6:void pit3_isr()	8	static

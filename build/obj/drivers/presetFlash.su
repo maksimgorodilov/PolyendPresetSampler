@@ -1,5 +1,0 @@
-drivers//presetFlash.cpp:33:6:void PresetFlash::init()	16	static
-drivers//presetFlash.cpp:38:6:void PresetFlash::readCalibrationData(PresetFlash::CalibrationData*)	8	static
-drivers//presetFlash.cpp:43:6:void PresetFlash::readUserData(void*, size_t, uint16_t)	8	static
-drivers//presetFlash.cpp:48:6:void PresetFlash::writeUserData(void*, size_t, uint16_t)	8	static
-drivers//presetFlash.cpp:51:1:cpp)	0	static

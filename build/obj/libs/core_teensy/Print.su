@@ -1,9 +1,0 @@
-libs//core_teensy/Print.cpp:34:8:virtual size_t Print::write(const uint8_t*, size_t)	24	static
-libs//core_teensy/Print.cpp:42:8:size_t Print::print(const String&)	72	static
-libs//core_teensy/Print.cpp:72:8:size_t Print::println()	16	static
-libs//core_teensy/Print.cpp:80:5:int _write(int, char*, int)	8	static
-libs//core_teensy/Print.cpp:87:5:)	12	static
-libs//core_teensy/Print.cpp:98:5:)	12	static
-libs//core_teensy/Print.cpp:246:8:size_t Print::printNumber(long unsigned int, uint8_t, uint8_t)	56	static
-libs//core_teensy/Print.cpp:60:8:size_t Print::print(long int)	8	static
-libs//core_teensy/Print.cpp:283:8:size_t Print::printFloat(double, uint8_t)	64	static
